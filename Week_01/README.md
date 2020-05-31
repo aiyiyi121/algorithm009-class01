@@ -22,26 +22,26 @@
 2. 刻意练习    5遍，弱项（不舒服），专项训练
 3. 反馈（主动、被动）    群、看题解
 # git基础操作
-git config --global user.name "用户名"
-git config --global user.email "邮箱"
-ssh-keygen -t rsa -C "你的邮箱”
-ssh -T git@github.com
+git config --global user.name "用户名"   
+git config --global user.email "邮箱"   
+ssh-keygen -t rsa -C "你的邮箱”   
+ssh -T git@github.com 
 # 数据结构
 ## 数组
 在python中对应的就是最基础的list结构。
 下标和值，分别对应值和一个指针
 ## 链表
-一种自己定义的结构
+一种自己定义的结构  
 由多个节点组成，每个节点只有自己的值，和指向下一个节点的指针。
 ## 跳表
 有序的链表
 ## 栈
 先进后出
 ## 队列
-先进先出
+先进先出   
 可以适用list进行构造
 ## 优先队列
 按照优先级出，
 ## 双端队列
-加强版的队列。
+加强版的队列。     
 python 中对应方法deque.
